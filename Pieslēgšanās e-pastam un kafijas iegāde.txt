@@ -1,0 +1,16 @@
+Pieslēgšanās e-pastam pieņemot, ka lietotājs jau ir izveidots
+1. Ievada interneta saiti pārlūkprogrammā, piemēram, https://www.inbox.lv/
+2. Ievada lietotājvārdu
+3. Ievada paroli
+4. Ieiet e-pastā
+
+Kafijas iegāde internetā
+1. Ievada interneta saiti https://www.salidzini.lv/ pārlūkprogrammā
+2. Meklētājā ieraksta piemēram Dallmayr kafijas pupiņas d' Oro Crema
+3. Izvēlas sev vēlamo internetveikalu un dodas uz tā mājaslapu
+4. Ieliek sev vēlamo daudzumu kafijas groziņā
+5. Ja nepieciešams reģistrējas internetveikalā, ja iepriekš pasūtījums no attiecīgā internetveikala ir veikts un reģistrācija jau ir notikusi ielogojas internetveikalā
+6. Aizpilda pasūtījuma informāciju izvēloties piegādi uz mājām
+7. Veic apmaksu
+8. Sagaida kurjeru ar pasūtījumu
+ 
